@@ -9,5 +9,10 @@ This Flutter project demonstrates an animated 3D box that rotates and changes co
 - **Interactive Controls (Optional):** (If applicable, mention any user controls like pause/play, speed adjustment, etc.)
 - **Customizable:** (If applicable, mention how users can customize aspects like rotation speed, colors, box size, etc.)
 
+
+## Matrix Snippet
+<img src="readme_assets/matrix.png" width="962" height="788" alt="Matrix Demo" />
+
+
 ## Preview
 ![Animated Demo](readme_assets/animation.gif)
