@@ -10,4 +10,4 @@ This Flutter project demonstrates an animated 3D box that rotates and changes co
 - **Customizable:** (If applicable, mention how users can customize aspects like rotation speed, colors, box size, etc.)
 
 ## Preview
-<video src="readme_assets/animation.webm" autoplay loop muted playsinline width="400"></video>
+![Animated Demo](readme_assets/animation.gif)
