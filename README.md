@@ -11,7 +11,7 @@ This Flutter project demonstrates an animated 3D box that rotates and changes co
 
 
 ## Matrix Snippet
-<img src="readme_assets/matrix.png" width="962" height="788" alt="Matrix Demo" />
+<img src="readme_assets/matrix.png" width="1464" height="3636" alt="Matrix Demo" />
 
 
 ## Preview
